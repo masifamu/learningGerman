@@ -6,7 +6,7 @@ but it is used same like in english **what time is it?**.
 The way we tell the time in german language differes and depends on the time. To make it more clear we will study
 three ways to tell the time.
 
-**One:** when the time is exact at hours. let say you want to say-**it is 10 o'clock.** then say-**Es ist zehn.**,and for **it is 4 o'clock.** say-**Es ist vier.**
+**First:** when the time is exact at hours. let say you want to say-**it is 10 o'clock.** then say-**Es ist zehn.**,and for **it is 4 o'clock.** say-**Es ist vier.**
   
 **Second:** when the time is not exact at hours.
 
@@ -17,3 +17,4 @@ three ways to tell the time.
            
 Let say-**it is 08:05.** then simply say-**Es ist fünf nach acht.**
 
+**Third:** here the third method goes
